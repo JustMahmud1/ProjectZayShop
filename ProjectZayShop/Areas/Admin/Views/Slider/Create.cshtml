@@ -1,0 +1,36 @@
+﻿@using ProjectZayShop.DTOs.SliderDtos;
+@model SliderPostDto
+@{
+	ViewData["Title"] = "Create";
+}
+
+<div class="container-fluid pt-4 px-4">
+	<div class="row g-4">
+		<div class="col-sm-12 col-xl-6">
+			<div class="bg-secondary rounded h-100 p-4">
+				<h6 class="mb-4">Basic Form</h6>
+				<form action="create" method="post" enctype="multipart/form-data">
+					<div class="mb-3">
+						<label asp-for="Name" class="form-label"></label>
+						<input asp-for="Name" type="text" class="form-control" >
+					</div>
+					<div class="mb-3">
+						<label asp-for="Slogan" class="form-label"></label>
+						<input asp-for="Slogan" type="text" class="form-control">
+					</div>
+					<div class="mb-3">
+						<label asp-for="Description" class="form-label"></label>
+						<input asp-for="Description" type="text" class="form-control">
+					</div>
+					<div class="mb-3">
+						<label asp-for="File"></label>
+						<input asp-for="File" accept="image/*" class="form-control">
+						<span class="text text-danger" asp-validation-for="File"></span>
+					</div>
+					<button type="submit" class="btn btn-primary">Create</button>
+				</form>
+			</div>
+		</div>
+
+	</div>
+</div>

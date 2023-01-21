@@ -1,0 +1,777 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\admin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\admin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\css\\templatemo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\css\\templatemo.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\037bf701-55cc-4d8c-920a-6688da6156f9sunglass.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\037bf701-55cc-4d8c-920a-6688da6156f9sunglass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\18391da9-b62c-418f-bdd4-12d45a805f96sunglass.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\18391da9-b62c-418f-bdd4-12d45a805f96sunglass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\40f24631-85aa-46d8-8b9f-c096d5ab6985anime-demon-slayer-kimetsu-no-yaiba-tanjirou-kamado-hd-wallpaper-preview.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\40f24631-85aa-46d8-8b9f-c096d5ab6985anime-demon-slayer-kimetsu-no-yaiba-tanjirou-kamado-hd-wallpaper-preview.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\6946de76-f273-4aa4-932f-762857a623467ee6e9724a8bd474f048de98a8fce433.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\6946de76-f273-4aa4-932f-762857a623467ee6e9724a8bd474f048de98a8fce433.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\80a35c1e-14c5-4c55-bc1d-90aedb9e9b10sunglass.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\80a35c1e-14c5-4c55-bc1d-90aedb9e9b10sunglass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\885c0e4c-bc67-4095-bcf3-14a63241fd8380s-wallpaper-200715142454321920x1200.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\885c0e4c-bc67-4095-bcf3-14a63241fd8380s-wallpaper-200715142454321920x1200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\about-hero.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-hero.svg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\banner_img_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\banner_img_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\banner_img_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner_img_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\brand_01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_01.png"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\brand_02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_02.png"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\brand_03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_03.png"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\brand_04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand_04.png"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\category_img_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\category_img_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\category_img_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category_img_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\feature_prod_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\feature_prod_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\feature_prod_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\feature_prod_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\product_single_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\product_single_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\product_single_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\product_single_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\product_single_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\product_single_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\product_single_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\product_single_08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\product_single_09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\product_single_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product_single_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\shop_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\shop_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\shop_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\shop_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\shop_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\shop_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\shop_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\shop_08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\shop_09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\shop_10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\shop_11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop_11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\js\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\js\\templatemo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\js\\templatemo.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\webfonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\slick.woff"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ProjectZayShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ProjectZayShop.props",
+      "PackagePath": "build\\ProjectZayShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectZayShop.props",
+      "PackagePath": "buildMultiTargeting\\ProjectZayShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ProjectZayShop.props",
+      "PackagePath": "buildTransitive\\ProjectZayShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
