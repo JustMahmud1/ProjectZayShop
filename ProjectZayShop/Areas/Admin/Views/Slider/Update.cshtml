@@ -1,0 +1,38 @@
+﻿@using ProjectZayShop.DTOs.SliderDtos;
+@model SliderUpdateDto
+@{
+    ViewData["Title"] = "Update";
+}
+
+<div class="container-fluid pt-4 px-4">
+	<div class="row g-4">
+		<div class="col-sm-12 col-xl-6">
+			<div class="bg-secondary rounded h-100 p-4">
+				<h6 class="mb-4">Basic Form</h6>
+				<form method="post" enctype="multipart/form-data">
+					<div class="mb-3">
+						<label asp-for="sliderGetDto.Name" class="form-label"></label>
+						<input asp-for="sliderPostDto.Name" value="@Model.sliderGetDto.Name" type="text" class="form-control" >
+					</div>
+					<input hidden asp-for="sliderGetDto.Id">
+					<div class="mb-3">
+						<label asp-for="sliderGetDto.Slogan" class="form-label"></label>
+						<input asp-for="sliderPostDto.Slogan" value="@Model.sliderGetDto.Slogan" type="text" class="form-control">
+					</div>
+					<div class="mb-3">
+						<label asp-for="sliderGetDto.Description" class="form-label"></label>
+						<input asp-for="sliderPostDto.Description" value="@Model.sliderGetDto.Description" type="text" class="form-control">
+					</div>
+					<div class="mb-3">
+						<label asp-for="sliderPostDto.File"></label>
+						<input asp-for="sliderPostDto.File" accept="image/*" class="form-control">
+						<span class="text text-danger" asp-validation-for="sliderPostDto.File"></span>
+					</div>
+					<button type="submit" class="btn btn-primary">Create</button>
+				</form>
+			</div>
+		</div>
+
+	</div>
+</div>
+

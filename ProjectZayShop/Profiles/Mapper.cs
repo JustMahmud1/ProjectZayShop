@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
-using NuGet.Configuration;
+using ProjectZayShop.DTOs.ProductDtos;
 using ProjectZayShop.DTOs.SettingDtos;
+using ProjectZayShop.Models;
 
 namespace ProjectZayShop.Profiles
 {
@@ -9,6 +10,8 @@ namespace ProjectZayShop.Profiles
 		public Mapper()
 		{
 			CreateMap<Settings, SettingGetDto>();
+			CreateMap<ProductPostDto, Product>();
+			CreateMap<Product,ProductGetDto>();
 		}
 	}
 }

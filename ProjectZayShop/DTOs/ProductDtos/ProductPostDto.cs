@@ -9,6 +9,6 @@ namespace ProjectZayShop.DTOs.ProductDtos
 		public string Price { get; set; }
 		public IFormFile File { get; set; }
 		public Category Category { get; set; }
-		public int CategoryID { get; set; }
+		public int CategoryId { get; set; }
 	}
 }

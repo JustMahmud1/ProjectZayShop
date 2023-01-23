@@ -71,5 +71,12 @@ namespace ProjectZayShop.Areas.Admin.Controllers
 			_context.SaveChanges();
 			return RedirectToAction(nameof(Index));
 		}
+		public IActionResult Delete(int Id)
+		{
+			Category category = _context.Categories.Find(Id);
+			_context.Categories.Remove(category);
+			_context.SaveChanges();
+			return RedirectToAction(nameof(Index));
+		}
 	}
 }

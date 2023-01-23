@@ -28,8 +28,8 @@
 								<td>@item.Name</td>
 								<td>@item.Slogan</td>
 								<td>@item.Description</td>
-								<td><a type="button" class="btn btn-sm btn-outline-warning">Update</a></td>
-								<td><a type="button" class="btn btn-sm btn-outline-danger">Delete</a></td>
+								<td><a asp-controller="Slider" asp-action="Update" asp-route-Id="@item.Id" type="button" class="btn btn-sm btn-outline-warning">Update</a></td>
+								<td><a asp-controller="Slider" asp-action="Delete" asp-route-Id="@item.Id"type="button" class="btn btn-sm btn-outline-danger">Delete</a></td>
 							</tr>
 						}
 					</tbody>

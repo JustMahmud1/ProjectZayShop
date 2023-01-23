@@ -24,7 +24,7 @@
 								<th scope="row">@item.Id</th>
 								<td>@item.Name</td>
 								<td><a type="button" asp-controller="Category" asp-action="Update" asp-route-Id="@item.Id" class="btn btn-sm btn-outline-warning">Update</a></td>
-								<td><a type="button" class="btn btn-sm btn-outline-danger">Delete</a></td>
+								<td><a type="button" asp-controller="Category" asp-action="Delete" asp-route-Id="@item.Id" class="btn btn-sm btn-outline-danger">Delete</a></td>
 							</tr>
 						}
 					</tbody>

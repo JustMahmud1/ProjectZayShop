@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uqWcxY761RTmvmYF7heM/tX3vkH3g5KFvu0XdlX1yhg=",
+  "Hash": "5J2Jw6LOagsHVckxWWoTmSyC+ewFzcWred2oRxdeVSw=",
   "Source": "ProjectZayShop",
   "BasePath": "_content/ProjectZayShop",
   "Mode": "Default",
@@ -2040,6 +2040,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo.min.css"
     },
     {
+      "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\018dd85c-1fc8-4483-a11e-53d86ac97145Organic-Cotton-Hoodie-Black-1.png",
+      "SourceId": "ProjectZayShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\",
+      "BasePath": "_content/ProjectZayShop",
+      "RelativePath": "assets/img/018dd85c-1fc8-4483-a11e-53d86ac97145Organic-Cotton-Hoodie-Black-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\018dd85c-1fc8-4483-a11e-53d86ac97145Organic-Cotton-Hoodie-Black-1.png"
+    },
+    {
       "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\037bf701-55cc-4d8c-920a-6688da6156f9sunglass.jpg",
       "SourceId": "ProjectZayShop",
       "SourceType": "Discovered",
@@ -2055,6 +2072,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\037bf701-55cc-4d8c-920a-6688da6156f9sunglass.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\0c0c8c28-2b9f-445e-87ed-9bd573299c33Organic-Cotton-Hoodie-Black-1.png",
+      "SourceId": "ProjectZayShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\",
+      "BasePath": "_content/ProjectZayShop",
+      "RelativePath": "assets/img/0c0c8c28-2b9f-445e-87ed-9bd573299c33Organic-Cotton-Hoodie-Black-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\0c0c8c28-2b9f-445e-87ed-9bd573299c33Organic-Cotton-Hoodie-Black-1.png"
     },
     {
       "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\18391da9-b62c-418f-bdd4-12d45a805f96sunglass.jpg",
@@ -2074,6 +2108,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\18391da9-b62c-418f-bdd4-12d45a805f96sunglass.jpg"
     },
     {
+      "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\3a315e8c-65b3-4490-a49a-319d90216872sunglass.jpg",
+      "SourceId": "ProjectZayShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\",
+      "BasePath": "_content/ProjectZayShop",
+      "RelativePath": "assets/img/3a315e8c-65b3-4490-a49a-319d90216872sunglass.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\3a315e8c-65b3-4490-a49a-319d90216872sunglass.jpg"
+    },
+    {
       "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\40f24631-85aa-46d8-8b9f-c096d5ab6985anime-demon-slayer-kimetsu-no-yaiba-tanjirou-kamado-hd-wallpaper-preview.jpg",
       "SourceId": "ProjectZayShop",
       "SourceType": "Discovered",
@@ -2089,6 +2140,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\40f24631-85aa-46d8-8b9f-c096d5ab6985anime-demon-slayer-kimetsu-no-yaiba-tanjirou-kamado-hd-wallpaper-preview.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\439e6002-2c12-45e5-811f-c64e00d450e6Organic-Cotton-Hoodie-Black-1.png",
+      "SourceId": "ProjectZayShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\",
+      "BasePath": "_content/ProjectZayShop",
+      "RelativePath": "assets/img/439e6002-2c12-45e5-811f-c64e00d450e6Organic-Cotton-Hoodie-Black-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\439e6002-2c12-45e5-811f-c64e00d450e6Organic-Cotton-Hoodie-Black-1.png"
     },
     {
       "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\6946de76-f273-4aa4-932f-762857a623467ee6e9724a8bd474f048de98a8fce433.jpg",
@@ -2125,6 +2193,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\80a35c1e-14c5-4c55-bc1d-90aedb9e9b10sunglass.jpg"
     },
     {
+      "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\81e02d55-0de3-4045-83aa-4462d9f44082Organic-Cotton-Hoodie-Black-1.png",
+      "SourceId": "ProjectZayShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\",
+      "BasePath": "_content/ProjectZayShop",
+      "RelativePath": "assets/img/81e02d55-0de3-4045-83aa-4462d9f44082Organic-Cotton-Hoodie-Black-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\81e02d55-0de3-4045-83aa-4462d9f44082Organic-Cotton-Hoodie-Black-1.png"
+    },
+    {
       "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\885c0e4c-bc67-4095-bcf3-14a63241fd8380s-wallpaper-200715142454321920x1200.jpg",
       "SourceId": "ProjectZayShop",
       "SourceType": "Discovered",
@@ -2140,6 +2225,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\885c0e4c-bc67-4095-bcf3-14a63241fd8380s-wallpaper-200715142454321920x1200.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\9e2849be-1b4d-43e9-9d06-c24e49fc7babOrganic-Cotton-Hoodie-Black-1.png",
+      "SourceId": "ProjectZayShop",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\",
+      "BasePath": "_content/ProjectZayShop",
+      "RelativePath": "assets/img/9e2849be-1b4d-43e9-9d06-c24e49fc7babOrganic-Cotton-Hoodie-Black-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\9e2849be-1b4d-43e9-9d06-c24e49fc7babOrganic-Cotton-Hoodie-Black-1.png"
     },
     {
       "Identity": "C:\\Users\\PREDATOR\\Desktop\\ProjectZayShop\\ProjectZayShop\\wwwroot\\assets\\img\\about-hero.svg",

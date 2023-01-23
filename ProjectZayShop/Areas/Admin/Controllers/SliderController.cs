@@ -56,6 +56,47 @@ namespace ProjectZayShop.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        public IActionResult Update(int Id)
+        {
+            Slider slider = _context.Sliders.Find(Id);
+            SliderUpdateDto sliderUpdateDto = new SliderUpdateDto()
+            {
+                sliderGetDto = new SliderGetDto()
+                {
+                    Id=slider.Id,
+                    Name = slider.Name,
+                    Slogan = slider.Slogan,
+                    Description = slider.Description
+                }
+            };
+            return View(sliderUpdateDto);
+        }
+
+        [HttpPost]
+        public IActionResult Update(SliderUpdateDto sliderUpdateDto)
+        {
+            Slider slider = _context.Sliders.Find(sliderUpdateDto.sliderGetDto.Id);
+            slider.Name=sliderUpdateDto.sliderPostDto.Name;
+            slider.Slogan = sliderUpdateDto.sliderPostDto.Slogan;
+            slider.Description = sliderUpdateDto.sliderPostDto.Description;
+            if(sliderUpdateDto.sliderGetDto.ImageName!=null)
+            {
+                slider.ImageName = sliderUpdateDto.sliderPostDto.File.CreateImage(_environment.WebRootPath, "assets/img");
+            }
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult Delete(int Id)
+        {
+			Slider slider = _context.Sliders.Find(Id);
+            _context.Sliders.Remove(slider);
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index));
+		}
+
+
+
         
     }
 
